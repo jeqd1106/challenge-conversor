@@ -1,1 +1,2 @@
-# challenge-conversor
+# Conversor
+# Permite convertir monedas o temperaturas
